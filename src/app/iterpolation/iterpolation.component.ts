@@ -10,8 +10,4 @@ export class IterpolationComponent {
   imagem: string = "favicon.ico";
   numero: number = 2;
   calculo: number = this.numero + this.numero
-  e: string = "ana";
-  f: string = "linda";
-  g: string = "tevez";
-  h: string = "lindao";
 }
